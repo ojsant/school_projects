@@ -1,0 +1,231 @@
+<box>
+x: 50
+y: 50
+</box>
+
+<atom>
+index: 1
+mass: 4.0
+x: 0
+y: 0
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 2
+mass: 4.0
+x: 9.8
+y: 0
+vx: 0
+vy: 0
+</atom>
+<atom>
+index: 3
+mass: 4.0
+x: 19.6
+y: 0
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 4
+mass: 4.0
+x: 29.4
+y: 0
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 5
+mass: 4.0
+x: 39.2
+y: 0
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 6
+mass: 4.0
+x: 0
+y: 9.8
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 7
+mass: 4.0
+x: 9.8
+y: 9.8
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 8
+mass: 4.0
+x: 19.6
+y: 9.8
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 9
+mass: 4.0
+x: 29.4
+y: 9.8
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 10
+mass: 4.0
+x: 39.2
+y: 9.8
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 11
+mass: 4.0
+x: 0
+y: 19.6
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 12
+mass: 4.0
+x: 9.8
+y: 19.6
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 13
+mass: 4.0
+x: 19.6
+y: 19.6
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 14
+mass: 4.0
+x: 29.4
+y: 19.6
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 15
+mass: 4.0
+x: 39.2
+y: 19.6
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 16
+mass: 4.0
+x: 0
+y: 29.4
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 17
+mass: 4.0
+x: 9.8
+y: 29.4
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 18
+mass: 4.0
+x: 19.6
+y: 29.4
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 19
+mass: 4.0
+x: 29.4
+y: 29.4
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 20
+mass: 4.0
+x: 39.2
+y: 29.4
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 21
+mass: 4.0
+x: 0
+y: 39.2
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 22
+mass: 4.0
+x: 9.8
+y: 39.2
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 23
+mass: 4.0
+x: 19.6
+y: 39.2
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 24
+mass: 4.0
+x: 29.4
+y: 39.2
+vx: 0
+vy: 0
+</atom>
+
+<atom>
+index: 25
+mass: 4.0
+x: 39.2
+y: 39.2
+vx: 0
+vy: 0
+</atom>
+
+
+

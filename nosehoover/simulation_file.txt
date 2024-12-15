@@ -1,0 +1,26 @@
+
+<interactions>
+sigma: 2
+epsilon: 2
+</interactions>
+
+<temperature>
+t: 10           
+friction: 250                # this tag is used for all coupling parameters    
+random-start: no
+initial-adjust: 0.5         # if starting config is too ideal, nudge them a bit with this one
+thermostat: nh              # 'nh' for Nosé-Hoover, 'be' for Berendsen and 'ld' for Langevin
+</temperature>
+
+<time>
+dt: 0.01
+total: 50
+</time>
+
+<recording>
+thermalizing-t: 25
+record-dt: 1.0      
+animate: yes
+anim-dt: 0.1
+plot: yes
+</recording>
