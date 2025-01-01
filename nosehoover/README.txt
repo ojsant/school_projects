@@ -1,8 +1,8 @@
 nosehoover.py by Otso Santala
 
 This program implements the Nosé-Hoover thermostat to an 
-existing MD program made by Teemu Hynninen (A4_2dmd_working.py). The general formulation is
-based on the one given by K. Vollmayer-Lee  (Am. J. Phys 88, 401-422 (2020), https://doi.org/10.1119/10.0000654), 
+existing MD program made by Teemu Hynninen (A4_2dmd_working.py, incomplete version at https://users.utu.fi/tejohy/teaching/simu/templates/A4_2dmd.py). 
+The general formulation is based on the one given by K. Vollmayer-Lee  (Am. J. Phys 88, 401-422 (2020), https://doi.org/10.1119/10.0000654), 
 originally by W. G. Hoover, (Phys. Rev. A 31, 1695–1697 (1985)).
 
 Included in this is the A4_2dmd_working.py, which is needed for the program to function, as well as a simulation parameter file,
